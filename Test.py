@@ -8,4 +8,4 @@ class MyTestCase(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-print("lkjf111112")
+print("lkj")
